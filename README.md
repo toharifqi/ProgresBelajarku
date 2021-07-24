@@ -11,6 +11,7 @@ Belajar kelas Android Jetpack Pro. (Progres 50%)
   * Belajar teori dan latihan viewmodel.
   * Belajar Architecture Component dan latihan penerapannya.
   * Menyelesaikan submission pertama kelas Android Jetpack Pro.
+
 **17 Mei 2021**  
 Belajar kelas Android Jetpack Pro. (Progres 100%)
   * Belajar dan latihan implementasi repository dan livedata pada project.
