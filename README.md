@@ -1,5 +1,5 @@
 # ProgresBelajarku di Dicoding.com
-Repository ini Berisi Pengalaman Belajar Saya di Dicoding
+Repository ini Berisi Pengalaman Belajar Saya di Dicoding.
 
 **17 April 2021**  
 Belajar kelas Android Jetpack Pro. [Progres 20%]
